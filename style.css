@@ -39,6 +39,7 @@ section {
     box-shadow: 5px 5px 5px rgba(43, 71, 53, 0.705);
     padding: 20px;
     margin: auto;
+    margin-bottom: 40px;
     text-align: center;
 }
 input {
